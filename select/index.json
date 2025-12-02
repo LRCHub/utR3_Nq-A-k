@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "トライアングラー(fight on stage)",
+  "base_artist": "ランカ・リー＝中島愛／シェリル・ノーム starring May'n",
+  "createdAt": "2025-12-02T01:25:12.208292Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "トライアングラー(fight on stage)",
+      "artist": "シェリル・ノーム starring May'n & ランカ・リー=中島愛",
+      "has_synced": false,
+      "path": "select/pl_01_トライアングラー(fight_on_stage)_シェリル・ノーム_starring_May'n_&_ランカ・リー=中島愛.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "トライアングラー (fight on stage)",
+      "artist": "シェリル・ノーム starring May'n & ランカ・リー=中島愛",
+      "has_synced": false,
+      "path": "select/pl_02_トライアングラー_(fight_on_stage)_シェリル・ノーム_starring_May'n_&_ランカ・リー=中島愛.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "トライアングラー (fight on stage)",
+      "artist": "シェリル・ノーム starring May'n & ランカ・リー=中島愛",
+      "has_synced": false,
+      "path": "select/pl_03_トライアングラー_(fight_on_stage)_シェリル・ノーム_starring_May'n_&_ランカ・リー=中島愛.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "トライアングラー - fight on stage",
+      "artist": "シェリル・ノーム starring May'n & ランカ・リー=中島愛",
+      "has_synced": false,
+      "path": "select/pl_04_トライアングラー_-_fight_on_stage_シェリル・ノーム_starring_May'n_&_ランカ・リー=中島愛.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "トライアングラー (fight on stage)",
+      "artist": "シェリル・ノーム starring May'n & ランカ・リー=中島愛",
+      "has_synced": false,
+      "path": "select/pl_05_トライアングラー_(fight_on_stage)_シェリル・ノーム_starring_May'n_&_ランカ・リー=中島愛.txt"
+    }
+  ]
+}
